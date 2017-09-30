@@ -1,2 +1,0 @@
-# WDI
-Web Data Integration
